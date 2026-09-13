@@ -9,13 +9,13 @@
 
   <p>
     <a href="mailto:huseyin@mysakin.com">
-      <img src="https://img.shields.io/badge/Email-huseyin%40mysakin.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-huseyin@mysakin.com-18181b?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://discord.com">
-      <img src="https://img.shields.io/badge/Discord-clentage-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+      <img src="https://img.shields.io/badge/Discord-clentage-18181b?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord" />
     </a>
     <a href="https://instagram.com/sknhsyn01" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-@sknhsyn01-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-@sknhsyn01-18181b?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" />
     </a>
   </p>
 </div>
@@ -30,41 +30,36 @@
 
 ---
 
-### 💻 Tech Stack & Araçlar
+### 💻 Tech Stack & Geliştirme Ortamı
 
 <div align="center">
-
-#### Frontend & UI
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Backend & Veritabanı
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Araçlar & Geliştirme Ortamı
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+  <!-- Modern SVG Icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,postgres,supabase,git,vercel,figma&theme=dark" alt="Tech Stack" />
+  </a>
+  <br/><br/>
+  <!-- IDE & Tools -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,webstorm,vscode&theme=dark" alt="Tools" />
+  </a>
 </div>
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Aktivitesi
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huseyinskn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Hüseyin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinskn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <!-- Streak Stats (Rate limit sorunu yaşatmaz ve her zaman yüklenir) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinskn&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Streak" />
+  
+  <br/><br/>
+  
+  <!-- Top Languages (Sade ve kompakt) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinskn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Yeni projeler, freelance iş birlikleri ve freelance danışmanlık için e-posta veya Discord üzerinden bana ulaşabilirsin.</sub>
+  <sub>Yeni projeler ve iş birlikleri için Discord veya e-posta üzerinden iletişime geçebilirsin.</sub>
 </div>
