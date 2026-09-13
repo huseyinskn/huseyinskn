@@ -33,12 +33,10 @@
 ### 💻 Tech Stack & Geliştirme Ortamı
 
 <div align="center">
-  <!-- Modern SVG Icons -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,postgres,supabase,git,vercel,figma&theme=dark" alt="Tech Stack" />
   </a>
   <br/><br/>
-  <!-- IDE & Tools -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,webstorm,vscode&theme=dark" alt="Tools" />
   </a>
@@ -49,16 +47,12 @@
 ### 📊 GitHub Aktivitesi
 
 <div align="center">
-  <!-- Streak Stats (Rate limit sorunu yaşatmaz ve her zaman yüklenir) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinskn&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Streak" />
   
   <br/><br/>
   
-  <!-- Top Languages (Sade ve kompakt) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinskn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-
----
 
 <div align="center">
   <sub>Yeni projeler ve iş birlikleri için Discord veya e-posta üzerinden iletişime geçebilirsin.</sub>
