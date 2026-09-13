@@ -25,7 +25,7 @@
 ### 🚀 Neler Yapıyorum?
 
 - 🌐 **Frontend & UI/UX:** Next.js, React ve Tailwind CSS ile hızlı, duyarlı ve modern web arayüzleri.
-- ⚙️ **Backend & Veritabanı:** Node.js, TypeScript, REST API'lar, Supabase ve PostgreSQL mimarileri.
+- ⚙️ **Backend & Mimari:** NestJS & Node.js ile modüler mimariler, TypeScript, RESTful API'lar, PostgreSQL ve Supabase.
 - 🛠️ **Özel Çözümler:** SaaS platformları, interaktif web araçları, bot sistemleri ve otomasyonlar.
 
 ---
@@ -34,7 +34,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,postgres,supabase,git,vercel,figma&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,nestjs,postgres,supabase,git,vercel,figma&theme=dark" alt="Tech Stack" />
   </a>
   <br/><br/>
   <a href="https://skillicons.dev">
@@ -48,11 +48,11 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinskn&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Streak" />
-  
   <br/><br/>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinskn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+
+---
 
 <div align="center">
   <sub>Yeni projeler ve iş birlikleri için Discord veya e-posta üzerinden iletişime geçebilirsin.</sub>
