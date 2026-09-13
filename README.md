@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Hey there, I'm Hüseyin 👋</h1>
-  <p><strong>Full-Stack Developer & Software Builder</strong></p>
+  <p><strong>Full-Stack & Systems Developer • Founder of <a href="https://github.com/firstadsapp">@firstadsapp</a></strong></p>
   
   <p>
-    Modern web teknolojileri, SaaS platformları ve performans odaklı sistemler geliştiren bir yazılım geliştiriciyim.<br/>
-    Fikirleri ölçeklenebilir, estetik ve kullanıcı dostu dijital ürünlere dönüştürmeyi seviyorum.
+    9 yılı aşkın yazılım deneyimiyle modern web platformları, masaüstü uygulamaları ve sistem mimarileri geliştiriyorum.<br/>
+    Performans odaklı backend sistemlerinden masaüstü araçlarına ve ölçeklenebilir SaaS ürünlerine kadar geniş bir yelpazede kod yazıyorum.
   </p>
 
   <p>
@@ -24,21 +24,22 @@
 
 ### 🚀 Neler Yapıyorum?
 
-- 🌐 **Frontend & UI/UX:** Next.js, React ve Tailwind CSS ile hızlı, duyarlı ve modern web arayüzleri.
-- ⚙️ **Backend & Mimari:** NestJS & Node.js ile modüler mimariler, TypeScript, RESTful API'lar, PostgreSQL ve Supabase.
-- 🛠️ **Özel Çözümler:** SaaS platformları, interaktif web araçları, bot sistemleri ve otomasyonlar.
+- 🌐 **Full-Stack & SaaS:** Next.js, React, Tailwind CSS, TypeScript ve PHP ile modern, hızlı web uygulamaları.
+- ⚙️ **Backend & Sistem:** NestJS, Node.js ve Go ile yüksek verimli API'lar, modüler servisler ve mikromimari çözümleri.
+- 🖥️ **Masaüstü & Düşük Seviye Geliştirme:** Electron, C++ ve C# ile yerel uygulamalar, masaüstü araçları ve performans odaklı yazılımlar.
+- 🗄️ **Veri Mimarisi:** PostgreSQL, Supabase ve veritabanı optimizasyonu.
 
 ---
 
-### 💻 Tech Stack & Geliştirme Ortamı
+### 💻 Tech Stack & Diller
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,nestjs,postgres,supabase,git,vercel,figma&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,go,cpp,cs,php,nodejs,nestjs,electron,nextjs,react,tailwind,postgres,supabase,git,vercel&theme=dark" alt="Languages and Frameworks" />
   </a>
   <br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,webstorm,vscode&theme=dark" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=idea,webstorm,clion,rider,vscode&theme=dark" alt="Development Tools" />
   </a>
 </div>
 
