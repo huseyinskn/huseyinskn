@@ -1,60 +1,53 @@
 <div align="center">
-  <h1>Hey there, I'm Hüseyin 👋</h1>
-  <p><strong>Full-Stack & Systems Developer • Founder of <a href="https://github.com/firstadsapp">@firstadsapp</a></strong></p>
+  <h1>Hüseyin Sakın</h1>
+  <p><strong>Systems & Full-Stack Developer • Founder of <a href="https://firstads.app">FirstAds</a></strong></p>
   
   <p>
-    9 yılı aşkın yazılım deneyimiyle modern web platformları, masaüstü uygulamaları ve sistem mimarileri geliştiriyorum.<br/>
-    Performans odaklı backend sistemlerinden masaüstü araçlarına ve ölçeklenebilir SaaS ürünlerine kadar geniş bir yelpazede kod yazıyorum.
+    9 yılı aşkın süredir oyun mekanikleri, performans odaklı backend mimarileri ve masaüstü araçları geliştiriyorum.<br/>
+    Son dönemde odağımı Unreal Engine & Unity ile bağımsız oyun geliştirme, C# / C++ ve ölçeklenebilir sistemlere verdim.
   </p>
-
   <p>
     <a href="mailto:huseyin@mysakin.com">
-      <img src="https://img.shields.io/badge/Email-huseyin@mysakin.com-18181b?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-huseyin@mysakin.com-111111?style=flat-square" alt="Email" />
     </a>
     <a href="https://discord.com">
-      <img src="https://img.shields.io/badge/Discord-clentage-18181b?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord" />
+      <img src="https://img.shields.io/badge/Discord-clentage-111111?style=flat-square" alt="Discord" />
+    </a>
+    <a href="https://www.linkedin.com/in/huseyin-sakın-4a228a415" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Hüseyin_Sakın-111111?style=flat-square" alt="LinkedIn" />
     </a>
     <a href="https://instagram.com/sknhsyn01" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-@sknhsyn01-18181b?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-@sknhsyn01-111111?style=flat-square" alt="Instagram" />
     </a>
   </p>
 </div>
-
----
-
-### 🚀 Neler Yapıyorum?
-
-- 🌐 **Full-Stack & SaaS:** Next.js, React, Tailwind CSS, TypeScript ve PHP ile modern, hızlı web uygulamaları.
-- ⚙️ **Backend & Sistem:** NestJS, Node.js ve Go ile yüksek verimli API'lar, modüler servisler ve mikromimari çözümleri.
-- 🖥️ **Masaüstü & Düşük Seviye Geliştirme:** Electron, C++ ve C# ile yerel uygulamalar, masaüstü araçları ve performans odaklı yazılımlar.
-- 🗄️ **Veri Mimarisi:** PostgreSQL, Supabase ve veritabanı optimizasyonu.
-
----
-
-### 💻 Tech Stack & Geliştirme Ortamı
-
+<hr/>
+### Focus & Expertise
+- **Game & Low-Level:** Unreal Engine, Unity (C#, Blueprints), C++, Lua (FiveM/MTA scriptleri & mekanikler).
+- **Backend & Systems:** Go, Node.js, NestJS, PHP (Laravel), REST & WebSocket servisleri.
+- **Frontend & Web:** TypeScript, Next.js, React, Tailwind CSS.
+- **Database & Tools:** PostgreSQL, Supabase, Linux, Git.
+<hr/>
+### Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,go,cpp,cs,php,nodejs,nestjs,nextjs,react,tailwind,postgres,supabase,electron,git,vercel&perline=8&theme=dark" alt="Tech Stack" />
-  </a>
-  <br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,webstorm,clion,rider,vscode&theme=dark" alt="Development Tools" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,ts,js,go,php,nodejs,nestjs,nextjs,react,tailwind,postgres,supabase,electron,git,linux&perline=8&theme=dark" alt="Tech Stack" />
   </a>
 </div>
-
----
-
-### 📊 GitHub Aktivitesi
-
+<hr/>
+### Projects
+- **FirstAds** — AI destekli reklam optimizasyon ve yönetim platformu.
+- **Game Prototypes** — Unreal Engine ve Unity üzerinde bağımsız 3D oyun mekanikleri.
+- **Server Scripts** — FiveM/MTA için optimize edilmiş özel envanter altyapıları ve sunucu modülleri.
+- **MYSAKIN LIMITED** — Otomasyon ve kurumsal yazılım çözümleri.
+<hr/>
+### GitHub Activity
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinskn&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinskn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-
----
-
+<hr/>
 <div align="center">
-  <sub>Yeni projeler ve iş birlikleri için Discord veya e-posta üzerinden iletişime geçebilirsin.</sub>
+  <sub>Yeni projeler ve iş birlikleri için Discord veya e-posta üzerinden iletişime geçebilirsiniz.</sub>
 </div>
